@@ -37,7 +37,7 @@ mechanics and functionality.
 It is completely open source; community involvement is highly encouraged.
 
 If you wish to contribute ideas or code, please visit our site linked below or
-make pull requests to our [Github repository](https://github.com/TrinityCore/TrinityCore/pulls).
+make pull requests to our [Github repository](https://github.com/BlizzardCore/BlizzardCore/pulls).
 
 For further information on the BlizzardCore project, please visit our project
 website at [TrinityCore.org](https://www.trinitycore.org).
