@@ -40,18 +40,18 @@ If you wish to contribute ideas or code, please visit our site linked below or
 make pull requests to our [Github repository](https://github.com/BlizzardCore/BlizzardCore/pulls).
 
 For further information on the BlizzardCore project, please visit our project
-website at [TrinityCore.org](https://www.trinitycore.org).
+website at [TrinityCore.org](https://blizzardcore.org).
 
 ## Requirements
 
 
-Software requirements are available in the [wiki](https://trinitycore.info/en/install/requirements) for
+Software requirements are available in the [wiki](https://blizzardcore.org/en/install/requirements) for
 Windows, Linux and macOS.
 
 
 ## Install
 
-Detailed installation guides are available in the [wiki](https://trinitycore.info/en/home) for
+Detailed installation guides are available in the [wiki](https://blizzardcore.org/en/home) for
 Windows, Linux and macOS.
 
 
@@ -62,7 +62,7 @@ Issues can be reported via the [Github issue tracker](https://github.com/Trinity
 Please take the time to review existing issues before submitting your own to
 prevent duplicates.
 
-In addition, thoroughly read through the [issue tracker guide](https://community.trinitycore.org/topic/37-the-trinitycore-issuetracker-and-you/) to ensure
+In addition, thoroughly read through the [issue tracker guide](https://community.blizzardcore.org/topic/37-the-trinitycore-issuetracker-and-you/) to ensure
 your report contains the required information. Incorrect or poorly formed
 reports are wasteful and are subject to deletion.
 
@@ -76,7 +76,7 @@ Read file [COPYING](COPYING).
 
 ## Links
 
-* [Website](https://www.trinitycore.org)
-* [Wiki](https://www.trinitycore.info)
-* [Forums](https://talk.trinitycore.org/)
-* [Discord](https://discord.trinitycore.org/)
+* [Website](https://blizzardcore.org)
+* [Wiki](https://blizzardcore.org)
+* [Forums](https://talk.blizzardcore.org/)
+* [Discord](https://discord.blizzardcore.org/)
