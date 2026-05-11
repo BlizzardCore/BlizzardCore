@@ -1,4 +1,4 @@
-# ![logo]([[https://community.trinitycore.org/public/style_images/1_trinitycore](https://avatars.githubusercontent.com/u/216982906?s=96&v=4).png](https://avatars.githubusercontent.com/u/216982906?v=4)) BlizzardCore
+# BlizzardCore
 
 --------------
 
