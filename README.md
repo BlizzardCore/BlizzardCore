@@ -1,4 +1,4 @@
-# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) BlizzardCore (master)
+# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) BlizzardCore
 
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Average time to resolve an issue") [![Percentage of issues still open](https://isitmaintained.com/badge/open/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Percentage of issues still open")
 
@@ -82,10 +82,6 @@ License: GPL 2.0
 
 Read file [COPYING](COPYING).
 
-
-## Authors &amp; Contributors
-
-Read file [AUTHORS](AUTHORS).
 
 
 ## Links
