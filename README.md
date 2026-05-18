@@ -15,7 +15,7 @@ master | 3.3.5 | wotlk_classic |
 ## Introduction
 BlizzardCore is a *MMORPG* Framework based mostly in C++.
 
-It is derived from *[MaNGOS](https://blizzardcore.org/en/home)*, *[TrinityCore](https://blizzardcore.org/en/home)*, the *Massive Network Game Object Server*, and is
+It is derived from *[MaNGOS](https://github.com/mangos)*, *[TrinityCore](https://github.com/TrinityCore)*, the *Massive Network Game Object Server*, and is
 based on the code of that project with extensive changes over time to optimize,
 improve and cleanup the codebase at the same time as improving the in-game
 mechanics and functionality.
