@@ -13,16 +13,12 @@ master | 3.3.5 | wotlk_classic |
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/435/badge.svg)](https://scan.coverity.com/projects/435) | [![Coverity Scan Build Status](https://scan.coverity.com/projects/4656/badge.svg)](https://scan.coverity.com/projects/4656) |
 
 ## Introduction
-
 BlizzardCore is a *MMORPG* Framework based mostly in C++.
 
-It is derived from *MaNGOS*, *TrinityCore*, the *Massive Network Game Object Server*, and is
+It is derived from *[MaNGOS](https://blizzardcore.org/en/home)*, *[TrinityCore](https://blizzardcore.org/en/home)*, the *Massive Network Game Object Server*, and is
 based on the code of that project with extensive changes over time to optimize,
 improve and cleanup the codebase at the same time as improving the in-game
 mechanics and functionality.
-
-*[TrinityCore](https://blizzardcore.org/en/home)*
-*[MaNGOS](https://blizzardcore.org/en/home)*
 
 It is completely open source; community involvement is highly encouraged.
 
@@ -30,7 +26,7 @@ If you wish to contribute ideas or code, please visit our site linked below or
 make pull requests to our [Github repository](https://github.com/BlizzardCore/BlizzardCore/pulls).
 
 For further information on the BlizzardCore project, please visit our project
-website at [TrinityCore.org](https://blizzardcore.org).
+website at [BlizzardCore.org](https://blizzardcore.org).
 
 ## Requirements
 
