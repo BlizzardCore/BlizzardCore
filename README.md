@@ -43,12 +43,12 @@ Windows, Linux and macOS.
 
 ## Reporting issues
 
-Issues can be reported via the [Github issue tracker](https://github.com/TrinityCore/TrinityCore/labels/Branch-master).
+Issues can be reported via the [Github issue tracker](https://community.blizzardcore.org).
 
 Please take the time to review existing issues before submitting your own to
 prevent duplicates.
 
-In addition, thoroughly read through the [issue tracker guide](https://community.blizzardcore.org/topic/37-the-trinitycore-issuetracker-and-you/) to ensure
+In addition, thoroughly read through the [issue tracker guide](https://community.blizzardcore.org/topic/37-the-issuetracker-and-you/) to ensure
 your report contains the required information. Incorrect or poorly formed
 reports are wasteful and are subject to deletion.
 
