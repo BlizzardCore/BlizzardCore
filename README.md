@@ -21,6 +21,9 @@ based on the code of that project with extensive changes over time to optimize,
 improve and cleanup the codebase at the same time as improving the in-game
 mechanics and functionality.
 
+[*TrinityCore*](https://blizzardcore.org/en/home)
+[*MaNGOS*](https://blizzardcore.org/en/home)
+
 It is completely open source; community involvement is highly encouraged.
 
 If you wish to contribute ideas or code, please visit our site linked below or
